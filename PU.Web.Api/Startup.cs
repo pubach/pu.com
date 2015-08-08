@@ -24,7 +24,7 @@ namespace PU.Web.Api
             httpConfiguration.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",
-                defaults: new { id = RouteParameter.Optional },
+                defaults: new { id = RouteParameter.Optional }
             );
 
             app.UseWebApi(httpConfiguration);
