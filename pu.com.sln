@@ -8,8 +8,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".notes", ".notes", "{A9DA27
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PU.Web.Api", "PU.Web.Api\PU.Web.Api.csproj", "{24C148E3-CD1B-4432-985F-99D5AF78604D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PU.Web", "PU.Web\PU.Web.csproj", "{2BBC09AB-6F71-4581-B8D0-2C0E5DCDC908}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PU.Web.Tests", "PU.Web.Tests\PU.Web.Tests.csproj", "{50941266-3B37-490A-8556-6380E66495C3}"
@@ -20,10 +18,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{24C148E3-CD1B-4432-985F-99D5AF78604D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{24C148E3-CD1B-4432-985F-99D5AF78604D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{24C148E3-CD1B-4432-985F-99D5AF78604D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{24C148E3-CD1B-4432-985F-99D5AF78604D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2BBC09AB-6F71-4581-B8D0-2C0E5DCDC908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2BBC09AB-6F71-4581-B8D0-2C0E5DCDC908}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BBC09AB-6F71-4581-B8D0-2C0E5DCDC908}.Release|Any CPU.ActiveCfg = Release|Any CPU
