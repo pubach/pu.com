@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{50941266-3B37-490A-8556-6380E66495C3}</ProjectGuid>
+    <ProjectGuid>{B6CF0538-9472-40FE-9521-1B788C215D89}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PU.Web.Tests</RootNamespace>
@@ -107,7 +107,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PU.Web\PU.Web.csproj">
-      <Project>{2BBC09AB-6F71-4581-B8D0-2C0E5DCDC908}</Project>
+      <Project>{29ECCDE2-8A93-4534-AC14-B5804F7ED920}</Project>
       <Name>PU.Web</Name>
     </ProjectReference>
   </ItemGroup>
